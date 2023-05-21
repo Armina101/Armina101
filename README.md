@@ -2,13 +2,13 @@
 
 <img src="https://github.com/Armina101/Armina101/blob/d469a65e823609ad78a0f74eee53b03b8f0f570f/20230521_111407_0000.jpg" alt="banner that says Aminat Afolabi - software engineering, alongside a cartoon illustration">
 
-## I'm a software engineering student in Nigeria 
+• I'm a software engineering student in Nigeria 
 
-## 🌱 I’m currently learning Python
+• 🌱 I’m currently learning Python
 
-##  💬 Ask me about C and Python
+• 💬 Ask me about C and Python
 
-##  🔭 I’m currently studying Software Engineering @alxafrica
+•  🔭 I’m currently studying Software Engineering @alxafrica
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101)](https://github.com/Armina101/github-readme-stats)
 

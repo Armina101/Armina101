@@ -1,5 +1,6 @@
 ## Hi, I'm Amina 👋👩‍💻
 
+jpg_20230521_104055_0000.jpg
 <!--
 **Armina101/Armina101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

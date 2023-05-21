@@ -1,4 +1,4 @@
-### Hi, I'm Amina 👋👩‍💻
+ Hi, I'm Amina 👋👩‍💻
 
 <!--
 **Armina101/Armina101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

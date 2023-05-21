@@ -1,6 +1,8 @@
 ## Hi, I'm Amina 👋👩‍💻
 
-https://github.com/Armina101/Armina101/blob/b3fdbf7a3d9d11d92051fa356ed4062a7aa3cf1b/jpg_20230521_104055_0000.jpg
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Aminat Afolabi - software engineering, alongside a cartoon illustration">
+
+I'm a software engineering student in Nigeria 
 <!--
 **Armina101/Armina101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

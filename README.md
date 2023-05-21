@@ -1,6 +1,6 @@
 ## Hi, I'm Amina 👋👩‍💻
 
-<img src="https://github.com/Armina101/Armina101/blob/c608499cf7621851d00a3cfe6f3d875b44a478d2/jpg_20230521_104055_0000.jpg" alt="banner that says Aminat Afolabi - software engineering, alongside a cartoon illustration">
+<img src="https://github.com/Armina101/Armina101/blob/d469a65e823609ad78a0f74eee53b03b8f0f570f/20230521_111407_0000.jpg" alt="banner that says Aminat Afolabi - software engineering, alongside a cartoon illustration">
 
 I'm a software engineering student in Nigeria 
 

@@ -10,9 +10,10 @@
 
 •  🔭 I’m currently studying Software Engineering @alxafrica
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101)](https://github.com/Armina101/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101)](https://github.com/Armina101/github-readme-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Armina101)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Armina101&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **Armina101/Armina101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

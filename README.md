@@ -12,7 +12,7 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101)](https://github.com/Armina101/github-readme-stats) -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101&show_icons=true&theme=tokyonight)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101&show_icons=true&theme=tokyonight) -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Armina101&theme=dark)](https://git.io/streak-stats)
 
 <!--

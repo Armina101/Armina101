@@ -8,7 +8,7 @@
 
 • 💬 Ask me about C and Python
 
-•  🔭 I’m currently studying Software Engineering @alxafrica
+•  🔭 Graduate - C12 Software Engineering @alxafrica
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Armina101)](https://github.com/Armina101/github-readme-stats) -->
 
